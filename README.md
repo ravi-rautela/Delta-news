@@ -1,3 +1,6 @@
+#Demo
+<img width="953" alt="newsPng" src="https://github.com/ravi-rautela/Delta-news/assets/72198753/7b790288-0fa9-431b-9717-7ba9e3df3a92">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
